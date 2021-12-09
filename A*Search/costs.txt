@@ -1,0 +1,13 @@
+Rolla 97
+KansasCity 238
+StJoseph 261
+Joplin 258
+Columbia 117
+Moberly 132
+JeffersonCity 107
+StCharles 20
+Springfield 195
+Lebanon 149
+StLouis 0
+Troy 49
+Hannibal 97
