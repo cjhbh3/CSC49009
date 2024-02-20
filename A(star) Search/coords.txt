@@ -1,0 +1,13 @@
+Rolla 37.951 -91.771
+KansasCity 39.1 -94.579
+StJoseph 39.769 -94.847
+Joplin 37.084 -94.513
+Columbia 38.952 -92.334
+Moberly 39.418 -92.438
+JeffersonCity 38.577 -92.174
+StCharles 38.784 -90.481
+Springfield 37.215 -93.298
+Lebanon 37.681 -92.663
+StLouis 38.627 -90.199
+Troy 38.979 -90.981
+Hannibal 39.708 -91.358
